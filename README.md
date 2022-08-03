@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Santosh857
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Full stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
